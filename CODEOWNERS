@@ -3,7 +3,7 @@
 
 # recursively assign all markdown files to @foo @bar
 **/*.md @symbolpunk @tucksondev @mahsamoosavi @amarrazza @hkalodner
-**/*.mdx @symbolpunk @tucksondev @mahsamoosavi @amarrazza @hkalodner
-
+**/*.mdx @symbolpunk @tucksondev @mahsamoosavi @amarrazza @hkalodxxxxxner
+aaaaaa
 # assign ownership of `sidebars.js` to @foo @bar
 ./website/sidebars.js @symbolpunk @tucksondev @mahsamoosavi @amarrazza @hkalodner
